@@ -28,3 +28,10 @@ python monitor.py
 - Python 3.8+
 - scikit-learn
 - psutil
+
+  
+👨‍💻 Autor
+© 2025 Emanuel — Licencia MIT
+
+🌐 LinkedIn
+https://www.linkedin.com/in/emanuel-gonzalez-michea/
