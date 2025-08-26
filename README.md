@@ -25,9 +25,9 @@
 
 ```mermaid
 flowchart LR
-  A[psutil metrics\nCPU%, MEM%] --> B[Ventana de features\n(window_size)]
-  B --> C[Modelo IA\nIsolation Forest]
-  C -->|score < threshold| D[Alert Manager]
+  A["psutil metrics<br/>CPU%, MEM%"] --> B["Ventana de features<br/>(window_size)"]
+  B --> C["Modelo IA<br/>Isolation Forest"]
+  C -->|score &lt; threshold| D[Alert Manager]
   D --> E1[stdout]
   D --> E2[archivo logs]
   D --> E3[webhook opc.]
@@ -206,4 +206,6 @@ python monitor.py --interval 1.0 --window 30 --threshold 0.0 --log logs/monitor.
 
 **© 2025 Emanuel** — Licencia **MIT**
 **LinkedIn:** [https://www.linkedin.com/in/emanuel-gonzalez-michea/](https://www.linkedin.com/in/emanuel-gonzalez-michea/)
+
+
 
