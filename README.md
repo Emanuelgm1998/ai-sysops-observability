@@ -9,7 +9,7 @@
   <img alt="Offline" src="https://img.shields.io/badge/offline-100%25-success">
 </p>
 
----
+
 
 ## ✨ Funcionalidades
 
