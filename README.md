@@ -200,7 +200,7 @@ python monitor.py --interval 1.0 --window 30 --threshold 0.0 --log logs/monitor.
 * Todo corre **local/offline**.
 * Revisa el código si lo usas en entornos sensibles.
 
----
+
 
 ## 👤 Autor
 
